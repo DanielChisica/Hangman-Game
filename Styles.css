@@ -1,0 +1,25 @@
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+#keyboard-input{
+    text-align: center;
+    border: 3px solid purple;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: cyan;
+}
+
+#hangman{
+    margin-top: 5em;
+}
+
